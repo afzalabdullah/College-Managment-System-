@@ -1,0 +1,259 @@
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.exe.config
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.exe
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.pdb
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csprojAssemblyReference.cache
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Form1.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Properties.Resources.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.exe
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.pdb
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Login.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.MainForm.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.CopyComplete
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Student.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Department.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Fees.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Teacher.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.UserForm.resources
+C:\Users\Abdullah Gujjar\source\repos\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Dashboard.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.exe.config
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.exe
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.pdb
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Dashboard.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Department.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Fees.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Form1.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Login.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.MainForm.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Properties.Resources.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Student.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Teacher.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.UserForm.resources
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.CopyComplete
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.exe
+C:\Users\User\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.pdb
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.exe.config
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.exe
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.pdb
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.exe
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\CollegeManagmentSystem.pdb
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Dashboard.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Department.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Fees.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Form1.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Login.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.MainForm.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Properties.Resources.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Student.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.Teacher.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.UserForm.resources
+C:\Users\afzal\OneDrive\Desktop\CollegeManagmentSystem\CollegeManagmentSystem\obj\Debug\CollegeManagmentSystem.csproj.GenerateResource.Cache
